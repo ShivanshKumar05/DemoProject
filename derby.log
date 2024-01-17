@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jan 17 13:25:01 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018d-166a-97f8-000001098a58 
+on database directory memory:/Users/shivanshpc/Documents/Workspace/course-api-data/aff2c767-259e-41a9-a447-38321dc65f84 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/Users/shivanshpc/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.1+12-LTS-29
+user.dir=/Users/shivanshpc/Documents/Workspace/course-api-data
+os.name=Mac OS X
+os.arch=aarch64
+os.version=11.7.10
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
